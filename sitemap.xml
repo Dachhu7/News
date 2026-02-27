@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- MAIN HUB (Highest Authority Page) -->
+  <url>
+    <loc>https://ainews.devastras.com/</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- AI Coding -->
+  <url>
+    <loc>https://ainews.devastras.com/free-ai-tools-for-coding.html</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- AI Writing -->
+  <url>
+    <loc>https://ainews.devastras.com/free-ai-writing-tools.html</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- AI Images -->
+  <url>
+    <loc>https://ainews.devastras.com/best-ai-image-generators.html</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- AI Video -->
+  <url>
+    <loc>https://ainews.devastras.com/ai-video-generators-free.html</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- AI Students -->
+  <url>
+    <loc>https://ainews.devastras.com/ai-tools-for-students.html</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+</urlset>
