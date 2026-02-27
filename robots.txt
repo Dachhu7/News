@@ -1,16 +1,5 @@
-# ============================================
-# AI News - High Growth SEO Configuration
-# Target: 15K – 50K Monthly Visitors
-# ============================================
-
 User-agent: *
 Allow: /
 
-# Allow CSS & resources for rendering
-Allow: /styles/
-
-# Crawl delay (optional - helps server stability)
-Crawl-delay: 5
-
-# Sitemap
+# Sitemap location
 Sitemap: https://ainews.devastras.com/sitemap.xml
